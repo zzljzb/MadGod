@@ -1,0 +1,47 @@
+[
+    {
+        "RoadID": 1,
+        "RoadMovementModifier": 1,
+        "HaveMine": 1,
+        "MinePosition": 0.4,
+        "ProduceSoldierType": 4,
+        "ProduceNeedTime": 5,
+        "MineLoyaltyHP": 50
+    },
+    {
+        "RoadID": 2,
+        "RoadMovementModifier": 1.4,
+        "HaveMine": 0,
+        "MinePosition": 0,
+        "ProduceSoldierType": 0,
+        "ProduceNeedTime": 5,
+        "MineLoyaltyHP": 50
+    },
+    {
+        "RoadID": 3,
+        "RoadMovementModifier": 1,
+        "HaveMine": 1,
+        "MinePosition": 0.5,
+        "ProduceSoldierType": 4,
+        "ProduceNeedTime": 5,
+        "MineLoyaltyHP": 50
+    },
+    {
+        "RoadID": 4,
+        "RoadMovementModifier": 1.4,
+        "HaveMine": 0,
+        "MinePosition": 0,
+        "ProduceSoldierType": 0,
+        "ProduceNeedTime": 5,
+        "MineLoyaltyHP": 50
+    },
+    {
+        "RoadID": 5,
+        "RoadMovementModifier": 1,
+        "HaveMine": 1,
+        "MinePosition": 0.6,
+        "ProduceSoldierType": 4,
+        "ProduceNeedTime": 5,
+        "MineLoyaltyHP": 50
+    }
+]

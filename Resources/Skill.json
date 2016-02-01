@@ -1,0 +1,35 @@
+[
+    {
+        "SkillID": 1,
+        "SkillName": "Lightning",
+        "SkillCondition": 1,
+        "SkillType": 0,
+        "SkillStrikeRange": 8,
+        "SkilHPDamage": 100,
+        "SkillLoyaltyDamage": 0,
+        "TransformSourceType": 9,
+        "TransformTargetType": 8
+    },
+    {
+        "SkillID": 2,
+        "SkillName": "Resurrection",
+        "SkillCondition": 2,
+        "SkillType": 2,
+        "SkillStrikeRange": 0,
+        "SkilHPDamage": 0,
+        "SkillLoyaltyDamage": 0,
+        "TransformSourceType": 9,
+        "TransformTargetType": 8
+    },
+    {
+        "SkillID": 3,
+        "SkillName": "VictoryBlast",
+        "SkillCondition": 0,
+        "SkillType": 0,
+        "SkillStrikeRange": 0,
+        "SkilHPDamage": 300,
+        "SkillLoyaltyDamage": 0,
+        "TransformSourceType": 9,
+        "TransformTargetType": 8
+    }
+]

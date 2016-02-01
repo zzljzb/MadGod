@@ -1,0 +1,24 @@
+[
+    {
+        "FractionID": 1,
+        "FractionMaxHP": 100,
+        "FractionInitHP": 100,
+        "FractionMaxMP": 100,
+        "FractionInitMP": 0,
+        "FractionInitHumanResource": 10,
+        "FractionHumanResourceIncreasPerSecond": 0.5,
+        "WinConditionHP": 1,
+        "WinConditionMP": 0
+    },
+    {
+        "FractionID": 2,
+        "FractionMaxHP": 100,
+        "FractionInitHP": 100,
+        "FractionMaxMP": 100,
+        "FractionInitMP": 0,
+        "FractionInitHumanResource": 10,
+        "FractionHumanResourceIncreasPerSecond": 0.5,
+        "WinConditionHP": 1,
+        "WinConditionMP": 1
+    }
+]
